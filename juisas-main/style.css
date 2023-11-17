@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+.cabecalho {
+ background-color:#FABBC4;
+ color:rgb(255, 255, 255);
+ display:flex;
+ justify-content: space-around;
+}
+.cabecalho-imagem{
+     width: 10%
+}
+
+.cabealho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+
+.confeitaria-imagem{
+    width: 25%;
+}
+
+.confeitaria{
+    background-image: linear-gradient(#FABBC4,#fc8899);
+    color:rgb(255, 252, 253) ;
+    display:flex;
+    justify-content: center;
+    align-items: center
+    padding 24px 0;
+
+}
+.confeitaria-div-conteudo{
+    width: 20%;
+
+}
+
+.confeitaria-titulo{
+    padding: 24px 0;
+}
+
+
+
